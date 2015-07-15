@@ -7,7 +7,7 @@ basedomain: rodrigprieto.github.io/hayacuerdos-fci
 analytics: "UA-41822715-4"
 
 # example
-gsheetexampleurl: "https://docs.google.com/spreadsheets/d/1V2gqtFl7rvZOv9Hbd4f5_3Z45OsyqVyht7FxE5EtiK8/pubhtml"
+gsheetexampleurl: "https://docs.google.com/spreadsheets/d/16qQhVrnhsCpg5lELdpCDmYbnpRbWIRewORS-KZHxfok/pubhtml"
 # first page to load
 gsheetexample-sheetpage: "government-oposition"
 
